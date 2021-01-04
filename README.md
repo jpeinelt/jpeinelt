@@ -1,4 +1,14 @@
-### Hi there 👋
+### Yet another place for self-promotion 🥳
+
+I prefer to keep things as simple as possible.
+
+🍄 currently working on a SaaS using PHP with the power of Laravel
+
+🌪 side projects appear occasionally on my Github timeline
+
+
+
+
 
 <!--
 **jpeinelt/jpeinelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
