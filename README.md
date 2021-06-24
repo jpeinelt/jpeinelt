@@ -2,9 +2,13 @@
 
 I prefer to keep things as simple as possible.
 
-🍄 currently working on a SaaS using PHP with the power of Laravel
+🛳 Working on [Loqbooq](https://loqbooq.app) — The decision log for your project!
 
-🌪 side projects appear occasionally on my Github timeline
+🍄 Checking out Svelte because I like the idea
+
+🌪 Diving deeper into Swift again
+
+👾 side projects may appear occasionally on my Github timeline
 
 
 
