@@ -2,15 +2,15 @@
 
 I prefer to keep things as simple as possible.
 
-🛳 Working on [Loqbooq](https://loqbooq.app) — The decision log for your project!
+🛳 Working on __[Loqbooq](https://loqbooq.app)__ — The decision log for your project!
 
-🍄 Checking out Svelte because I like the idea
+🍄 Dabbling with __Unity, Monogame, and Heaps.io__
 
-🌪 Diving deeper into Swift again
+🌪 Writing __Swift__ code all day long
 
 👾 side projects may appear occasionally on my Github timeline
 
-
+⚡ Working at [Coding Friends](https://coding-friends.com), __contact us if you need support with iOS development__
 
 
 
