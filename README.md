@@ -1,5 +1,6 @@
 # 🍄 Welcome, I'm Julius
 
+I'm a software developer based in Berlin. My focus is mostly macOS, iOS and PHP/Laravel development. 
 
 ## 🚀 My favorite projects
 
