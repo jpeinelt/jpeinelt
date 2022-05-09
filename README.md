@@ -1,16 +1,32 @@
-### Yet another place for self-promotion 🥳
+# 🍄 Welcome, I'm Julius
 
-I prefer to keep things as simple as possible.
 
-🛳 Working on __[Loqbooq](https://loqbooq.app)__ — The decision log for your project!
+## 🚀 My favorite projects
 
-🍄 Dabbling with __Unity, Monogame, and Heaps.io__
+🛳 __[Loqbooq](https://loqbooq.app)__ – The decision log for your project!
 
-🌪 Writing __Swift__ code all day long
+🧁 __[Macarons](macarons-roulette.app)__ – Chat roulette for Slack
 
-👾 side projects may appear occasionally on my Github timeline
+🗯 __[Wokabulary](https://wokabulary.com/)__ – Flash card vocabulary app for Mac, iPhone and iPad
 
-⚡ Working at [Coding Friends](https://coding-friends.com), __contact us if you need support with iOS development__
+🐙 __[Tincta](https://codingfriends.github.io/Tincta)__ – Open source text editor for macOS
+
+
+## 🛸 Available for hire
+
+⚡ I’m the co-founder of [Coding Friends UG](https://coding-friends.com), a development studio for Mac and iOS apps.
+
+
+## 👾 Pastime
+
+Dabbling with __Unity, Monogame, and Heaps.io__
+
+side projects may appear occasionally on my Github timeline
+
+
+## My Mantra
+
+Keep things as simple as possible.
 
 
 
