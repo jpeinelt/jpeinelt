@@ -6,7 +6,7 @@ I'm a software developer based in Berlin. My focus is mostly macOS, iOS and PHP/
 
 🛳 __[Loqbooq](https://loqbooq.app)__ – The decision log for your project!
 
-🧁 __[Macarons](macarons-roulette.app)__ – Chat roulette for Slack
+🧁 __[Macarons](https://macarons-roulette.app)__ – Chat roulette for Slack
 
 🗯 __[Wokabulary](https://wokabulary.com/)__ – Flash card vocabulary app for Mac, iPhone and iPad
 
