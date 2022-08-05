@@ -15,7 +15,7 @@ I'm a software developer based in Berlin. My focus is mostly macOS, iOS and PHP/
 
 ## 🛸 Available for hire
 
-⚡ I’m the co-founder of [Coding Friends UG](https://coding-friends.com), a development studio for Mac and iOS apps.
+⚡ I’m a co-founder of [Coding Friends UG](https://coding-friends.com), a development studio for Mac and iOS apps.
 
 
 ## 👾 Pastime
