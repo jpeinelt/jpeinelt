@@ -20,7 +20,7 @@ I'm a software developer based in Berlin. My focus is mostly macOS, iOS and PHP/
 
 ## 👾 Pastime
 
-Dabbling with __Unity, Monogame, and Heaps.io__
+Dabbling with __Unity, HaxeFlixel, and Defold__
 
 side projects may appear occasionally on my Github timeline
 
