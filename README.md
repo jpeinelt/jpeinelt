@@ -1,6 +1,6 @@
 # Welcome, I'm Julius
 
-I'm a software developer based in Berlin. My focus is mostly macOS, iOS and PHP/Laravel development. 
+I'm a software developer based in Berlin. My focus is mostly macOS, iOS and PHP/Laravel development with strong interests in cybersecurity and machine learning. 
 
 ## 🚀 My favorite projects
 
@@ -20,7 +20,7 @@ I'm a software developer based in Berlin. My focus is mostly macOS, iOS and PHP/
 
 ## 👾 Pastime
 
-Dabbling with __Unity, HaxeFlixel, and Defold__
+Dabbling with __Godot and HaxeFlixel__ at [Copy Paste Games](https://copypastegames.com/)
 
 side projects may appear occasionally on my Github timeline
 
